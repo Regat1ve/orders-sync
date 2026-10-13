@@ -1,0 +1,6 @@
+{
+  "name": "orders-sync",
+  "private": true,
+  "scripts": { "test": "node test.js" },
+  "engines": { "node": ">=18" }
+}
